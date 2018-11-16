@@ -24,10 +24,10 @@ Images
 ![Tree](https://vignette.wikia.nocookie.net/powerlisting/images/8/81/FreeGreatPicture.com-1091-tree.jpg/revision/latest?cb=20150913014203)
 
 Tables
-| Name    | Email          |
-| ------- | ---------------|
-|John Doe | john@gmail.com |
-|Jane Doe | jane@gmail.com |
+|Name   |Email          |
+|-------|---------------|
+|John Doe |john@gmail.com|
+|Jane Doe |jane@gmail.com|
 
 Task Lists
 * [x] Task 1
