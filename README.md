@@ -36,6 +36,11 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
+Name | Email
+--- | ---
+John Doe | john@gmail.com
+Jane Doe | jane@gmail.com
+
 Task Lists
 * [x] Task 1
 * [x] Task 2
