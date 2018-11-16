@@ -25,19 +25,11 @@ Images
 
 Tables
 
-/***
-| __Animals__ | __Sports__ | __Fruits__ |
-|-------------|------------|------------|
-| Cat         | Soccer     | Apple      |
-| Dog         | Basketball | Orange     |
-***/
-
-/***
-| __Name__ | __Email__     |
-|----------|---------------|
-| John Doe | john@gmail.com|
-| Jane Doe | jane@gmail.com|
-***/
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 Task Lists
 * [x] Task 1
